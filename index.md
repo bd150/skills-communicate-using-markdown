@@ -10,3 +10,7 @@ class JavaExample {
     }
 }
 ```
+
+- [ ] Buy groceries
+- [ ] Feed cat
+- [ ] Rule the world
